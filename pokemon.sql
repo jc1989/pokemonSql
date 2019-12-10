@@ -66,7 +66,7 @@ COPY public.pokemon_db (id, name, type, "evolvesFromId") FROM stdin;
 6	Charizard	Fire	5
 7	Squirtle	Water	\N
 8	Wartortle	Water	7
-9	Blastoise	Water	8
+9	Blastoisee	Water	8
 10	Caterpie	Bug	\N
 11	Metapod	Bug	10
 12	Butterfree	Bug	11
